@@ -12,7 +12,7 @@ TypeScript 4.0 2020-yil 20-avgustda chiqarilgan. 4.0 hech qanday oʻzgarishlar k
 
 TypeScript 5.0 2023-yil 16-martda chiqarildi va dekorativlarni qo‘llab-quvvatlashni o‘z ichiga oladi.
 
-# Typescript nimag kerak
+# Typescript nimaga kerak
 
 TypeScript - bu Microsoft tomonidan ishlab chiqilgan bepul va ochiq manbali yuqori darajadagi dasturlash tili bo'lib , JavaScript- ga ixtiyoriy turdagi izohlar bilan statik yozishni qo'shadi . U katta ilovalarni ishlab chiqish va JavaScript-ga transpilyatsiya qilish uchun mo'ljallangan . TypeScript JavaScript ning yuqori toʻplami boʻlganligi sababli, barcha JavaScript dasturlari sintaktik jihatdan yaroqli TypeScript boʻladi, lekin ular xavfsizlik nuqtai nazaridan matn terish tekshiruvini oʻtkaza olmaydi .
 
